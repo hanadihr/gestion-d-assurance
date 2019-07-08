@@ -1,0 +1,60 @@
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe.config
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\Gestion du client.pdb
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csprojResolveAssemblyReference.cache
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form1.resources
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Properties.Resources.resources
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.GenerateResource.Cache
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion du client.exe
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion du client.pdb
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form2.resources
+c:\users\spy--zerx\documents\visual studio 2015\Projects\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form3.resources
+C:\Users\SpY--ZeRx\Documents\Visual Studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\MySql.Data.dll
+C:\Users\SpY--ZeRx\Documents\Visual Studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\Google.Protobuf.dll
+C:\Users\SpY--ZeRx\Documents\Visual Studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SpY--ZeRx\Documents\Visual Studio 2015\Projects\Gestion du client\Gestion du client\bin\Debug\MySql.Data.xml
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe.config
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\bin\Debug\Gestion du client.pdb
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\bin\Debug\Google.Protobuf.dll
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\bin\Debug\MySql.Data.xml
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csprojAssemblyReference.cache
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form1.resources
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form2.resources
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Properties.Resources.resources
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.GenerateResource.cache
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.CoreCompileInputs.cache
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.CopyComplete
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion du client.exe
+C:\Users\Mhamed Braham\Desktop\ha\Gestion du client\Gestion du client\obj\Debug\Gestion du client.pdb
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe.config
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\bin\Debug\Gestion du client.pdb
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\bin\Debug\Google.Protobuf.dll
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\bin\Debug\MySql.Data.xml
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csprojAssemblyReference.cache
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form1.resources
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form2.resources
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Properties.Resources.resources
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.GenerateResource.cache
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.CoreCompileInputs.cache
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.CopyComplete
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion du client.exe
+C:\Users\HANADI\Desktop\Gestion du client\Gestion du client\obj\Debug\Gestion du client.pdb
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe.config
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\bin\Debug\Gestion du client.exe
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\bin\Debug\Gestion du client.pdb
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\bin\Debug\Google.Protobuf.dll
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\bin\Debug\MySql.Data.xml
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csprojAssemblyReference.cache
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form1.resources
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Form2.resources
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion_du_client.Properties.Resources.resources
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.GenerateResource.cache
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.CoreCompileInputs.cache
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion du client.csproj.CopyComplete
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion du client.exe
+C:\Users\HANADI\Desktop\hanedi\faculté\1ere ing\1ere ing 2 se\Gestion du client\Gestion du client\obj\Debug\Gestion du client.pdb
